@@ -11,6 +11,8 @@ A simple and easy to use jQuery script that resizes images according to the vert
 5. new height gets calculated and applied to the image.
 
 ##Usage
-`$('img').imgFixHeight({
+```
+$('img').imgFixHeight({
   
-});`
+});
+```
