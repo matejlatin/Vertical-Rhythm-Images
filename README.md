@@ -12,6 +12,12 @@ A lightweight, simple and easy to use jQuery script that resizes images accordin
 
 ##Usage
 An example with two breakpoints (very common for a responsive website where you have different line-heights for mobile and desktop version).
+
+Call in the Vertical Rhythm Images script.
+```HTML
+<script type="text/javascript" src="jquery.tweetable.js"></script>
+```
+Initiate the function on your images.
 ```JavaScript
 $('img').imgFixHeight({[
 	{
