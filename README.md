@@ -13,6 +13,8 @@ A lightweight, simple and easy to use jQuery script that resizes images accordin
 ##Usage
 An example with two breakpoints (very common for a responsive website where you have different line-heights for mobile and desktop version).
 
+You will have to set the options (breakpoints and line-heights) according to your line-height. For further details on vertical rhythm and how to use this script read the Handcrafting Web Typography article.
+
 Call in the Vertical Rhythm Images script.
 ```HTML
 <script type="text/javascript" src="verticalRhythmImages.js"></script>
@@ -34,4 +36,3 @@ $('img').imgFixHeight({[
 	}
 ]});
 ```
-For further details on vertical rhythm and how to use this script read the Handcrafting Web Typography article.
