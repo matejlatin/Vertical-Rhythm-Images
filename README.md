@@ -16,9 +16,9 @@ An example with two breakpoints (very common for a responsive website where you 
 $('img').imgFixHeight({[
 	{
 	  	// Breakpoint 1: Mobile
-		breakpointStart: 0,	// Breakpoint start
-		breakpointEnd: 600,	// Breakpoint end
-		lh: 23			// Line-height to be used 
+		breakpointStart: 0, // Breakpoint start
+		breakpointEnd: 600, // Breakpoint end
+		lh: 23 // Line-height to be used 
 	},
 	{
 	  	// Breakpoint 2: Tablet & Desktop
