@@ -1,6 +1,8 @@
 # Vertical Rhythm Images
 A lightweight, simple and easy to use jQuery script that resizes images according to the vertical rhythm.
 
+[View Demo]()
+
 ## How it Works
 1. The function first checks the width of the users' screen / browser window,
 2. checks the height of the images,
