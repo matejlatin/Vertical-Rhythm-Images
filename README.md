@@ -12,7 +12,7 @@ A lightweight, simple and easy to use jQuery script that resizes images accordin
 
 ##Usage
 An example with two breakpoints (very common for a responsive website where you have different line-heights for mobile and desktop version).
-```
+```JavaScript
 $('img').imgFixHeight({[
 	{
 	  	// Breakpoint 1: Mobile
