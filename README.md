@@ -28,3 +28,4 @@ $('img').imgFixHeight({[
 	}
 ]});
 ```
+##Further Resources
