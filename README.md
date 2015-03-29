@@ -1,5 +1,5 @@
 # Vertical Rhythm Images
-A simple and easy to use jQuery script that resizes images according to the vertical rhythm.
+A lightweight, simple and easy to use jQuery script that resizes images according to the vertical rhythm.
 
 
 
@@ -12,7 +12,18 @@ A simple and easy to use jQuery script that resizes images according to the vert
 
 ##Usage
 ```
-$('img').imgFixHeight({
-  
-});
+$('img').imgFixHeight({[
+	{
+	  // Breakpoint 1
+		breakpointStart: 0,
+		breakpointEnd: 600,
+		lh: 23 // line height
+	},
+	{
+	  // Breakpoint 2
+		breakpointStart: 601,
+		breakpointEnd: Infinity,
+		lh: 27 // Line height
+	}
+]});
 ```
