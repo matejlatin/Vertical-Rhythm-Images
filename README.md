@@ -15,7 +15,7 @@ An example with two breakpoints (very common for a responsive website where you 
 
 Call in the Vertical Rhythm Images script.
 ```HTML
-<script type="text/javascript" src="jquery.tweetable.js"></script>
+<script type="text/javascript" src="verticalRhythmImages.js"></script>
 ```
 Initiate the function on your images.
 ```JavaScript
