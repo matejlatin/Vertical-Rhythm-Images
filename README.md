@@ -11,6 +11,7 @@ A lightweight, simple and easy to use jQuery script that resizes images accordin
 5. new height gets calculated and applied to the image.
 
 ##Usage
+An example with two breakpoints (very common for a responsive website where you have different line-heights for mobile and desktop version).
 ```
 $('img').imgFixHeight({[
 	{
